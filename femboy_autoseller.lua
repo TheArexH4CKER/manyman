@@ -61,28 +61,28 @@ getgenv().Config = {
     Seller = { --[[ Seller Settings]]
         Active = true,
         Items = {
-            ["Huge Mechatronic Robot"] = {Class = "Pet", Price = "100%"},
+            ["Huge Mechatronic Robot"] = {Class = "Pet", Price = "95%"},
             ["Golden Huge Mechatronic Robot"] = {Class = "Pet", Price = "110%"},
             ["Rainbow Huge Mechatronic Robot"] = {Class = "Pet", Price = "110%"},
             ["Shiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "120%"},
             ["Golden Shiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "100%"},
             --["Rainbow Shiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "100%"},
 
-            ["Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "100%"},
+            ["Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "95%"},
             ["Golden Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "110%"},
             ["Rainbow Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "110%"},
             ["Shiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "120%"},
             ["Golden Shiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "100%"},
             --["Rainbow Shiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "100%"},
 
-            ["Huge Corrupt Butterfly"] = {Class = "Pet", Price = "100%"},
+            ["Huge Corrupt Butterfly"] = {Class = "Pet", Price = "95%"},
             ["Golden Huge Corrupt Butterfly"] = {Class = "Pet", Price = "110%"},
             ["Rainbow Huge Corrupt Butterfly"] = {Class = "Pet", Price = "110%"},
             ["Shiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "120%"},
             ["Golden Shiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "100%"},
             --["Rainbow Shiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "100%"},
 
-            ["Huge Temporal Owl"] = {Class = "Pet", Price = "100%"},
+            ["Huge Temporal Owl"] = {Class = "Pet", Price = "95%"},
             ["Golden Huge Temporal Owl"] = {Class = "Pet", Price = "110%"},
             ["Rainbow Huge Temporal Owl"] = {Class = "Pet", Price = "110%"},
             ["Shiny Huge Temporal Owl"] = {Class = "Pet", Price = "120%"},
