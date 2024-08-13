@@ -93,7 +93,7 @@ getgenv().Config = {
     },
     Serverhop = { --[[ ServerHop Settings ]] 
         TeleportDelay = "30m", -- [ M | S | H ]
-        Alts = {"","",""},
+        Alts = {"NomStock","UnitedNatoUS","ElfBar2500"},
         ["Terminal"] = {
             Item = "Random_Config", -- [ ITEM ID | Random_Huge | Random_Titanic | Random_Config ]
             Class = "Misc", 
