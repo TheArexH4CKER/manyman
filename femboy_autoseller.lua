@@ -92,7 +92,7 @@ getgenv().Config = {
         Webhook = "https://discord.com/api/webhooks/1239469009456599132/y6np4HvbW_Lv4aFnH6Pea530Bl1Ue6Yt0qebQWxF9_beBy70O-_DeKYa5xXw-88v-h0c",
     },
     Serverhop = { --[[ ServerHop Settings ]] 
-        TeleportDelay = "1h", -- [ M | S | H ]
+        TeleportDelay = "30m", -- [ M | S | H ]
         Alts = {"","",""},
         ["Terminal"] = {
             Item = "Random_Config", -- [ ITEM ID | Random_Huge | Random_Titanic | Random_Config ]
