@@ -82,7 +82,7 @@ getgenv().Config = {
             --["Shiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "95%"},
             --["Golden Shiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "95%"},
             
-            ["RainbowShiny Huge Temporal Owl"] = {Class = "Pet", Price = "100%"},
+            ["Rainbow Shiny Huge Temporal Owl"] = {Class = "Pet", Price = "100%"},
             --["Huge Temporal Owl"] = {Class = "Pet", Price = "89%"},
             --["Golden Huge Temporal Owl"] = {Class = "Pet", Price = "90%"},
             --["Rainbow Huge Temporal Owl"] = {Class = "Pet", Price = "92%"},
