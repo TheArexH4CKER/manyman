@@ -61,21 +61,21 @@ getgenv().Config = {
     Seller = { --[[ Seller Settings]]
         Active = true,
         Items = {
-            ["RainbowShiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "100%"},
+            ["Rainbow Shiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "100%"},
             --["Huge Mechatronic Robot"] = {Class = "Pet", Price = "89%"},
             --["Golden Huge Mechatronic Robot"] = {Class = "Pet", Price = "90%"},
             --["Rainbow Huge Mechatronic Robot"] = {Class = "Pet", Price = "92%"},
             --["Shiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "95%"},
             --["Golden Shiny Huge Mechatronic Robot"] = {Class = "Pet", Price = "95%"},
 
-            ["RainbowShiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "100%"},
+            ["Rainbow Shiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "100%"},
             --["Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "89%"},
             --["Golden Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "90%"},
             --["Rainbow Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "92%"},
             --["Shiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "95%"},
             --["Golden Shiny Huge Abyssal Jellyfish"] = {Class = "Pet", Price = "95%"},
 
-            ["RainbowShiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "100%"},            
+            ["Rainbow Shiny Huge Corrupt Butterfly"] = {Class = "Pet", Price = "100%"},            
             --["Huge Corrupt Butterfly"] = {Class = "Pet", Price = "89%"},
             --["Golden Huge Corrupt Butterfly"] = {Class = "Pet", Price = "90%"},
             --["Rainbow Huge Corrupt Butterfly"] = {Class = "Pet", Price = "92%"},
