@@ -61,7 +61,7 @@ getgenv().Config = {
     Seller = { --[[ Seller Settings]]
         Active = true,
         Items = {
-            ["Huge Fossil Dragon"] = {Class = "Pet", Price = "96%"},
+            ["Huge Fossil Dragon"] = {Class = "Pet", Price = "43000000"},
         },
         Webhook = "https://discord.com/api/webhooks/1239469009456599132/y6np4HvbW_Lv4aFnH6Pea530Bl1Ue6Yt0qebQWxF9_beBy70O-_DeKYa5xXw-88v-h0c",
     },
